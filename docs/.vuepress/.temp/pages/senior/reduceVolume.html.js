@@ -85,8 +85,8 @@ export const data = {
   "git": {
     "contributors": [
       {
-        "name": "xiongjian",
-        "email": "webjsforyou@gmail.com",
+        "name": "caohong",
+        "email": "1449688523@qq.com",
         "commits": 1
       }
     ]
